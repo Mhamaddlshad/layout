@@ -1,0 +1,35 @@
+.header{
+    background-color: #3d3d3d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.footer{
+    background-color: #3d3d3d;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    size: 30px;
+
+}
+
+.sidebar{
+    background-color: #5e5e5e;
+    color: white;
+    padding: 40px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+}
+.section{
+    padding: 220px;
+    border: 2px solid;
+}
+
+tr, td{
+padding-left: 20px;
+}
